@@ -12,6 +12,17 @@ This project creates a beautiful **mood light** using an RGB LED and a potentiom
 
 ---
 
+## 🎮 Available Modes
+
+| Mode                | Description                                |
+|---------------------|--------------------------------------------|
+| 🔁 Automatic Mode    | Colors cycle on their own, no input needed  |
+| 🎚️ Potentiometer Mode | Control the color using a potentiometer    |
+
+> Each mode has its own `.ino` file inside its respective folder.
+
+---
+
 ## 🎬 Video Demo
 Watch it on Instagram: https://instagram.com/gideong10
 
