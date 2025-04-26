@@ -13,7 +13,7 @@ This project creates a beautiful **mood light** using an RGB LED and a potentiom
 ---
 
 ## 🎬 Video Demo
-Watch it on Instagram: [@yourIG](https://instagram.com/yourusername)
+Watch it on Instagram: https://instagram.com/gideong10
 
 ---
 
@@ -25,7 +25,7 @@ Watch it on Instagram: [@yourIG](https://instagram.com/yourusername)
 ---
 
 ## 💡 Hardware Required
-- Arduino (Uno/Nano/etc.)
+- Arduino Uno R3
 - RGB LED (Common Cathode)
 - 220Ω resistors (x3)
 - Potentiometer
